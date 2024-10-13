@@ -12,9 +12,9 @@ Ce dépôt contient tout le nécessaire pour construire une MakerFr i3-RDX.
 - [Cadre](#cadre)
 - [Pièces à imprimer](#pièces-à-imprimer)
 - [Pièces à sourcer](#pièces-à-sourcer)
-- [Firmware BTT SKR PRO 1.2](#firmware-btt-skr-pro-12)
+- [Firmware BTT Octopus v1.1](#firmware-btt-skr-pro-12)
 - [Firmware BTT TFT35](#firmware-btt-tft35)
-- [PrusaSlicer - MakerFr Edition](#prusaslicer---makerfr-edition)
+- [PrusaSlicer - MakerFr Edition + .INI pour PrusaSlicer "normal"](#prusaslicer---makerfr-edition)
 
 ## Tutoriel de montage
 [Disponible dans le dépôt](./PDF/)

@@ -38,7 +38,7 @@ Dans la release 2.0.7.2 de MarlinFirmware, il y a un bug concernant la ventilati
 
 Il s'agit d'une branche basée sur le tag 2.0.7.2 dans laquelle ont été intégrés la configuration pour la MakerFr i3-RDX ainsi qu'un cherry pick (sorte de copier/coller) du correctif qui a été introduit dans la branche bugfix.
 
-Ceci en attendant une éventuelle 2.0.7.3 qui intègrera nativement ce correctif.
+~~Ceci en attendant une éventuelle 2.0.7.3 qui intègrera nativement ce correctif.~~ Version 2.1.2.4 disponible
 
 ### Fichiers <!-- omit in toc -->
 [Sources de MarlinFirmware modifié](https://github.com/Kachidoki2807/Marlin/tree/MakerFr_2.0.7.2_bugfix%2321206)
@@ -50,7 +50,7 @@ Le fichier .bin est à mettre sur la carte µSD de la BTT SKR PRO 1.2. Il sera a
 ## Firmware BTT TFT35
 Concernant le TFT, le problème est tout autre. Il n'y a aucune gestion de version dans le dépôt officiel du constructeur. Ainsi le firmware évolue de jour en jour, sans aucune cohérence ni garantie d'un état stable. La maintenance devient alors très pénible.
 
-Pour palier à cela, chez MakerFr on vous propose une "version" figée qui date de début 2021, avec laquelle nous avons travaillé depuis. La configuration est adaptée à l'i3-RDX. MISE A JOUR FAITE EN 2024.
+~~Pour palier à cela, chez MakerFr on vous propose une "version" figée qui date de début 2021, avec laquelle nous avons travaillé depuis. La configuration est adaptée à l'i3-RDX.~~ MISE A JOUR FAITE EN 2024.
 
 [Binaire pré-compilé pour le TFT35 de BTT](Firmware/BTT_TFT35/BIGTREE_TFT35_V3.0.26.x.bin)
 

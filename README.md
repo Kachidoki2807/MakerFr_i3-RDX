@@ -2,9 +2,9 @@
 
 Ce dépôt contient tout le nécessaire pour construire une MakerFr i3-RDX.
 <p align="center">
-<img src="./MakerFr_i3-RDX_rendering.png" height="250">
-<img src="https://github.com/user-attachments/assets/777eb73e-96b3-411b-90b2-7ec105c6b7e8" height="250">
-<img src="https://github.com/user-attachments/assets/254c20fb-4995-4d1a-8726-2fecacf217e7" height="250">
+<img src="./MakerFr_i3-RDX_rendering.png" height="300">
+<img src="https://github.com/user-attachments/assets/777eb73e-96b3-411b-90b2-7ec105c6b7e8" height="300">
+<img src="https://github.com/user-attachments/assets/254c20fb-4995-4d1a-8726-2fecacf217e7" height="300">
 </p>
 
 # Table des contenus <!-- omit in toc -->
